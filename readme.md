@@ -23,7 +23,7 @@ The plugin can be used to serve static sites from an s3-compatible provider.
 experimental:
   plugins:
     sigv4middleware:
-      moduleName: "github.com/ygormartins/traefik-aws-sigv4-middleware-v1"
+      moduleName: "github.com/hhe-novara/traefik-aws-sigv4-plugin"
       # Populate this with the latest release tag.
       version: vX.Y.Z
 ```
