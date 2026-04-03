@@ -1,3 +1,3 @@
-module github.com/hhe-novara/traefik-aws-sigv4-middleware-v1
+module github.com/hhe-novara/traefik-aws-sigv4-plugin
 
 go 1.22
